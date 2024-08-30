@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include "samples.h"
 
 int main()
 {
-    printf("hello world\n");
+    linklist_sample();
     return 0;
 }
